@@ -152,9 +152,11 @@ Por outro lado, um dos seus principais desafios é justamente manter essa docume
 Neste projeto, optei por utilizar o Selenium junto com o BDD para a automação dos testes.
 
 Durante o desenvolvimento, me deparei com uma postagem do Papito, na qual ele discute se o uso de BDD com Selenium é uma abordagem boa ou ruim. Essa reflexão me fez reconsiderar, ao final do projeto, se realmente vale a pena utilizar essa combinação dessa forma, principalmente ao observar que algumas empresas adotam esse modelo.
+
 ---
 
-👨‍💻 Autor
-Luiz Gustavo
+## 👨‍💻 Autor
+
+**Luiz Gustavo**
 
 ---
